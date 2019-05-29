@@ -1,0 +1,19 @@
+{
+  "name": "curry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "ts": "tsc",
+    "build": "browserify src/js/main.js -o src/js/result.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {}
+}

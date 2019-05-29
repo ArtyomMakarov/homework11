@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "outDir": "./src/js/",
+    "watch": true
+  }
+}
